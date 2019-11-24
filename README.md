@@ -1,1 +1,2 @@
-# PYTHON-Objective-Assignment-
+#           PYTHON
+# Objective Practise Questions
